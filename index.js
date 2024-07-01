@@ -1,1 +1,1 @@
-console.log("Halo nama saya fitri setia lestari");
+console.log("Halo nama saya fitri setia lestari" + "Okay");
